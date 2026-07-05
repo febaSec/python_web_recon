@@ -1,0 +1,5 @@
+venv/
+recon.db
+recon.log
+tests/
+__pycache__/
